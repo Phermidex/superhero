@@ -1,0 +1,16 @@
+.bg-dc {
+    background-image:  url('../../../../public/assets/images/bgmin.jpg');
+    background-size: cover;
+    background-blend-mode: overlay;
+    background-color: rgba(0, 0, 0, 0.5);
+    color: #fff;
+    height: 100vh;
+}
+
+.dc-title {
+    color: #0376f2;
+    font-stretch: extra-expanded;
+    font-weight: 800;
+    font-size: 4rem;
+    text-transform: uppercase;
+}
