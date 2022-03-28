@@ -4,8 +4,8 @@ import { Routes, Route } from 'react-router-dom';
 
 
 // Pages
-import Home from './pages/Home';
-import Search from './pages/Search/Search';
+import Home from './pages/Home/index';
+import Search from './pages/Search/index';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
 

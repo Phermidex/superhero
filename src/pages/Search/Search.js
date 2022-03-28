@@ -4,7 +4,7 @@ import { Button, InputGroup, FormControl, Card } from "react-bootstrap";
 import { useNavigate } from "react-router-dom";
 
 // Relatives
-import Layout from "../../components/Layout/Layout";
+import Layout from "../../components/Layout/";
 import "./styles/index.scss";
 import "bootstrap-icons/font/bootstrap-icons.css";
 
